@@ -5,7 +5,7 @@
 + pnu40127	김인아 : 
 + pnu40128	김지훈 : 
 + pnu40129	김혜정 : 
-+ pnu40130	김혜진 : 
++ pnu40130	김혜진 : https://github.com/ynnij
 + pnu40131	김희수 : 
 + pnu40132	남지수 : 
 + pnu40133	박민호 : 
