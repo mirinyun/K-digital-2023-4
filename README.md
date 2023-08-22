@@ -4,7 +4,7 @@
 + pnu40126	김윤성 : 
 + pnu40127	김인아 : 
 + pnu40128	김지훈 : 
-+ pnu40129	김혜정 : 
++ pnu40129	김혜정 : https://github.com/maejyomi
 + pnu40130	김혜진 : 
 + pnu40131	김희수 : 
 + pnu40132	남지수 : 
