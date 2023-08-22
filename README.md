@@ -3,7 +3,7 @@
 + pnu40125	강희진 : 
 + pnu40126	김윤성 : 
 + pnu40127	김인아 : 
-+ pnu40128	김지훈 : 
++ pnu40128	김지훈 : https://github.com/housekjh1
 + pnu40129	김혜정 : 
 + pnu40130	김혜진 : 
 + pnu40131	김희수 : 
