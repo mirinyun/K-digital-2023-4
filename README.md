@@ -6,7 +6,7 @@
 + pnu40128	김지훈 : 
 + pnu40129	김혜정 : 
 + pnu40130	김혜진 : 
-+ pnu40131	김희수 : 
++ pnu40131	김희수 : https://github.com/bvnfgb/practice-javascr
 + pnu40132	남지수 : 
 + pnu40133	박민호 : 
 + pnu40134	박준형 : 
