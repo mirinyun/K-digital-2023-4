@@ -9,7 +9,7 @@
 + pnu40131	김희수 : 
 + pnu40132	남지수 : 
 + pnu40133	박민호 : 
-+ pnu40134	박준형 : 
++ pnu40134	박준형 : https://github.com/DevJunParkisMe
 + pnu40135	신유빈 : 
 + pnu40136	윤미린 : 
 + pnu40137	전병건 : 
