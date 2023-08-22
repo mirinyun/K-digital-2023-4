@@ -12,7 +12,7 @@
 + pnu40134	박준형 : 
 + pnu40135	신유빈 : 
 + pnu40136	윤미린 : 
-+ pnu40137	전병건 : 
++ pnu40137	전병건 : https://github.com/wnahswl
 + pnu40138	지병규 : 
 + pnu40139	천동혁 : 
 + pnu40140	한동훈 : 
