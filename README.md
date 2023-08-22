@@ -16,4 +16,4 @@
 + pnu40138	지병규 : 
 + pnu40139	천동혁 : 
 + pnu40140	한동훈 : 
-+ pnu40141	홍예준 : 
++ pnu40141	홍예준 : https://github.com/ghdaud30/
