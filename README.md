@@ -13,7 +13,7 @@
 + pnu40135	신유빈 : 
 + pnu40136	윤미린 : 
 + pnu40137	전병건 : 
-+ pnu40138	지병규 : 
++ pnu40138	지병규 : https://github.com/Read-Ji-Code/uploadHtml
 + pnu40139	천동혁 : 
 + pnu40140	한동훈 : 
 + pnu40141	홍예준 : 
