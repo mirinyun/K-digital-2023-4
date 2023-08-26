@@ -1,6 +1,6 @@
 # K-digital-2023-4
 
-+ pnu40125	강희진 : 
++ pnu40125	강희진 : https://github.com/color7921
 + pnu40126	김윤성 : https://github.com/ORENOL
 + pnu40127	김인아 : https://github.com/inayong
 + pnu40128	김지훈 : 
