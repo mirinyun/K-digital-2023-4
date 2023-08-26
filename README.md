@@ -8,7 +8,7 @@
 + pnu40130	김혜진 : https://github.com/ynnij
 + pnu40131	김희수 : https://github.com/bvnfgb/practice-javascr
 + pnu40132	남지수 : https://github.com/JisooOvO
-+ pnu40133	박민호 : 
++ pnu40133	박민호 : https://github.com/777Mino777
 + pnu40134	박준형 : https://github.com/DevJunParkisMe
 + pnu40135	신유빈 : 
 + pnu40136	윤미린 : 
