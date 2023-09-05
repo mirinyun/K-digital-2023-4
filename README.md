@@ -1,9 +1,10 @@
 # K-digital-2023-4
 
+ 
 + pnu40125	강희진 : https://github.com/color7921
 + pnu40126	김윤성 : https://github.com/ORENOL
 + pnu40127	김인아 : https://github.com/inayong
-+ pnu40128	김지훈 : 
++ pnu40128	김지훈 :  https://github.com/housekjh1
 + pnu40129	김혜정 : https://github.com/maejyomi
 + pnu40130	김혜진 : https://github.com/ynnij
 + pnu40131	김희수 : https://github.com/bvnfgb/practice-javascr
