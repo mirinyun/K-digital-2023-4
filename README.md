@@ -15,6 +15,6 @@
 + pnu40136	윤미린 : 
 + pnu40137	전병건 : https://github.com/wnahswl
 + pnu40138	지병규 : https://github.com/Read-Ji-Code/uploadHtml
-+ pnu40139	천동혁 : 
++ pnu40139	천동혁 : https://github.com/cjs9615
 + pnu40140	한동훈 : 
 + pnu40141	홍예준 : https://github.com/ghdaud30/
